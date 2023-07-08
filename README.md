@@ -7,12 +7,11 @@ By leveraging natural language processing and machine learning algorithms, our p
 
 ## Key Features:
 
-  ### Article Submission: Users can submit articles or textual content through the web app's intuitive interface. They can either copy and paste the article or attach links directing to articles.
+  **Article Submission**: Users can submit articles or textual content through the web app's intuitive interface. They can either copy and paste the article or attach links directing to articles.
 
-  ### Sentiment Analysis: 
-    The web app employs Google Cloud's AI model to analyze the sentiment expressed in the submitted articles. The model has been trained on vast amounts of textual data and is capable of accurately identifying positive, negative, and neutral sentiments.
+  **Sentiment Analysis**: The web app employs Google Cloud's AI model to analyze the sentiment expressed in the submitted articles. The model has been trained on vast amounts of textual data and is capable of accurately identifying positive, negative, and neutral sentiments.
 
-  ### Company Filtering: Users can specify the target company or companies they want to evaluate within the submitted articles. The app will focus on extracting sentiments relevant to the specified company, enabling users to gain a deeper understanding of the perception surrounding those companies.
+  **Company Filtering**: Users can specify the target company or companies they want to evaluate within the submitted articles. The app will focus on extracting sentiments relevant to the specified company, enabling users to gain a deeper understanding of the perception surrounding those companies.
 
   ### Sentiment Visualization: The web app provides users with visually appealing and easy-to-understand sentiment visualizations. The sentiments are presented in the form of charts or graphs, allowing users to quickly grasp the overall sentiment distribution and identify trends over time.
 
