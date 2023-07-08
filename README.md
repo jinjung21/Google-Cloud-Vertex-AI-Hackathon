@@ -9,7 +9,8 @@ By leveraging natural language processing and machine learning algorithms, our p
 
   ### Article Submission: Users can submit articles or textual content through the web app's intuitive interface. They can either copy and paste the article or attach links directing to articles.
 
-  ### Sentiment Analysis: The web app employs Google Cloud's AI model to analyze the sentiment expressed in the submitted articles. The model has been trained on vast amounts of textual data and is capable of accurately identifying positive, negative, and neutral sentiments.
+  ### Sentiment Analysis: 
+    The web app employs Google Cloud's AI model to analyze the sentiment expressed in the submitted articles. The model has been trained on vast amounts of textual data and is capable of accurately identifying positive, negative, and neutral sentiments.
 
   ### Company Filtering: Users can specify the target company or companies they want to evaluate within the submitted articles. The app will focus on extracting sentiments relevant to the specified company, enabling users to gain a deeper understanding of the perception surrounding those companies.
 
