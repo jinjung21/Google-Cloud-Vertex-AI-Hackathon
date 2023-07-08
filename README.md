@@ -13,15 +13,15 @@ By leveraging natural language processing and machine learning algorithms, our p
 
   **Company Filtering**: Users can specify the target company or companies they want to evaluate within the submitted articles. The app will focus on extracting sentiments relevant to the specified company, enabling users to gain a deeper understanding of the perception surrounding those companies.
 
-  ### Sentiment Visualization: The web app provides users with visually appealing and easy-to-understand sentiment visualizations. The sentiments are presented in the form of charts or graphs, allowing users to quickly grasp the overall sentiment distribution and identify trends over time.
+  **Sentiment Visualization**: The web app provides users with visually appealing and easy-to-understand sentiment visualizations. The sentiments are presented in the form of charts or graphs, allowing users to quickly grasp the overall sentiment distribution and identify trends over time.
 
-  ### Detailed Sentiment Analysis: Users can access detailed sentiment analysis for each article, including sentiment scores, key phrases, and important contextual information. This feature helps users gain insights into the specific aspects of a company that contribute to positive or negative sentiment.
+  **Detailed Sentiment Analysis**: Users can access detailed sentiment analysis for each article, including sentiment scores, key phrases, and important contextual information. This feature helps users gain insights into the specific aspects of a company that contribute to positive or negative sentiment.
 
-  ### Historical Analysis: The web app offers the ability to track sentiment changes over time. Users can input a date range to analyze sentiments expressed in articles during that period. This feature aids in identifying the impact of events or campaigns on public perception and assessing the effectiveness of company initiatives.
+  **Historical Analysis**: The web app offers the ability to track sentiment changes over time. Users can input a date range to analyze sentiments expressed in articles during that period. This feature aids in identifying the impact of events or campaigns on public perception and assessing the effectiveness of company initiatives.
 
-  ### Export and Reporting: Users can export sentiment analysis results, visualizations, and detailed reports in various formats (e.g., PDF, CSV) for further analysis, sharing with team members, or integration with other business intelligence tools.
+  **Export and Reporting**: Users can export sentiment analysis results, visualizations, and detailed reports in various formats (e.g., PDF, CSV) for further analysis, sharing with team members, or integration with other business intelligence tools.
 
-  ### User Management and Security: The web app includes user authentication and role-based access control to ensure data privacy and restrict access to authorized individuals. User management features allow administrators to manage user accounts, permissions, and usage analytics.
+  **User Management and Security**: The web app includes user authentication and role-based access control to ensure data privacy and restrict access to authorized individuals. User management features allow administrators to manage user accounts, permissions, and usage analytics.
 
 ## Target Audience:
   The Sentiment Analysis Web App is designed for businesses, public relations firms, marketing agencies, and brand managers seeking to understand the sentiment expressed towards specific companies in articles or textual content. It provides valuable insights for reputation management, competitive analysis, and decision-making processes.
